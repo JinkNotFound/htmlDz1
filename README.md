@@ -1,5 +1,5 @@
 # Картинки сайта
-Нажмите [сюда](https://github.com/JinkNotFound/testHide/archive/refs/heads/main.zip) чтобы скачать файл
+Нажмите [сюда](https://github.com/JinkNotFound/htmlDz1/archive/refs/heads/main.zip) чтобы скачать файл
 ## Главная страница
 ![Главная страница](Dz_1/img/1silte.png)
 
